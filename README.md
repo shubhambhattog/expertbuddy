@@ -1,5 +1,5 @@
 # expertbuddy
 
-#Repo moved to  https://github.com/shubhambhattog/assignment_expert_buddy
+# Repo moved to  https://github.com/shubhambhattog/assignment_expert_buddy
 
-##sorry for inconvenience
+## sorry for inconvenience
